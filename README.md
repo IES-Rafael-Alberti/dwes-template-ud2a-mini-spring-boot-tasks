@@ -3,6 +3,7 @@
 Este repositorio es el punto de partida de la práctica cooperativa **Mini Spring
 Boot Tasks** de DWES. Cada grupo trabaja en su propio *fork* de este repositorio;
 el código, los commits, las pruebas y los documentos requeridos se mantienen aquí.
+Con los 27 alumnos del grupo, se formarán seis equipos de cuatro y uno de tres.
 
 ## Empezar
 

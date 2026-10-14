@@ -10,5 +10,7 @@ colaboradoras. Cada integrante usa su propia cuenta y firma sus commits.
 | | | | |
 | | | | |
 
+El grupo de tres integrantes deja la cuarta fila vacía.
+
 Actualizad las contribuciones durante el trabajo. No compartáis contraseñas ni
 tokens de acceso.

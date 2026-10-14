@@ -15,10 +15,11 @@
 
 ## Aplicación 2026/2027
 
-La práctica se ejecuta en grupos de 3-4 por vertical slices. El fork del grupo es
-la única fuente de evidencias de esta entrega: código, tests, commits, decisiones
-y declaración de IA. La tarea de Moodle solo recoge el enlace al repositorio; no
-se califican capturas ni documentos separados.
+Con 27 alumnos, la práctica se organiza en siete grupos (seis de cuatro y uno de
+tres) que desarrollan una funcionalidad vertical. El fork del grupo es la única
+fuente de evidencias de esta entrega: código, tests, commits, decisiones y
+declaración de IA. La tarea de Moodle solo recoge el enlace al repositorio; no se
+califican capturas ni documentos separados.
 
 La funcionalidad vertical adicional es obligatoria para la ruta 2026/2027: un
 cambio pequeño de extremo a extremo que evidencie conexión JPA/H2, servicio,
