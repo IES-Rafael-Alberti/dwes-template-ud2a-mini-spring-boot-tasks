@@ -20,7 +20,8 @@ la única fuente de evidencias de esta entrega: código, tests, commits, decisio
 y declaración de IA. La tarea de Moodle solo recoge el enlace al repositorio; no
 se califican capturas ni documentos separados.
 
-El slice adicional es obligatorio para la ruta 2026/2027: debe evidenciar la
-conexión JPA/H2, una operación en servicio y repositorio, DTO, respuesta HTTP y
-prueba. Corresponde a RA6.a-d y RA7.a-d; la práctica representa el 15 % de la
-calificación de UD2a en 2026/2027.
+La funcionalidad vertical adicional es obligatoria para la ruta 2026/2027: un
+cambio pequeño de extremo a extremo que evidencie conexión JPA/H2, servicio,
+repositorio, DTO cuando corresponda, respuesta HTTP y prueba. Corresponde a
+RA6.a-d y RA7.a-d; la práctica representa el 15 % de la calificación de UD2a en
+2026/2027.

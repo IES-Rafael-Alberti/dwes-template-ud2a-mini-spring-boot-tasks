@@ -30,11 +30,16 @@ el código, los commits, las pruebas y los documentos requeridos se mantienen aq
 7. Entrega en la tarea de Moodle únicamente la URL del fork. Moodle sirve para
    localizar el repositorio; todo lo que se evalúa debe estar dentro de él.
 
-## Slice adicional
+## Funcionalidad vertical (slice) adicional
+
+Un *slice* es una funcionalidad pequeña completa de extremo a extremo, no una
+capa aislada. Por ejemplo, filtrar tareas por estado recorre la petición HTTP, el
+controlador, el servicio, la consulta del repositorio y la respuesta JSON; el
+grupo añade una prueba que verifica ese comportamiento.
 
 Sobre la versión `v4`, el grupo implementa una operación acotada de consulta o
-modificación de tareas, con controlador, servicio, repositorio JPA, DTO cuando
-corresponda y una prueba automatizada. La operación debe devolver respuestas HTTP
+modificación de tareas. Incluye controlador, servicio, repositorio JPA, DTO cuando
+corresponda y prueba automatizada. La operación debe devolver respuestas HTTP
 coherentes e incluir el caso de recurso inexistente. No se pide todavía una
 migración versionada ni OpenAPI.
 
